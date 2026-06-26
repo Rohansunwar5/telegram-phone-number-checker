@@ -2,7 +2,7 @@
 *.session
 *.json
 dist/
-
+venv/
 # JetBrains IDEs
 .idea/
 
